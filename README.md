@@ -1,6 +1,6 @@
-# Python projects
+# My Projects repository 
 
 
-The first project is a music genre recognition task carried out on the famous GTZAN dataset.
+Hello! 
 
-The second project is an image recognition task on the WikiArt Faces dataset. 
+I am Alberto. I share here my university projects.
