@@ -1,6 +1,4 @@
-# My Projects repository 
+# Python Natural Language Processing Project
 
 
-Hello! 
-
-I am Alberto. I share here my university projects.
+This is a natural language analysis. The dataset is available on GitHub. 
