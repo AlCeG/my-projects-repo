@@ -1,6 +1,6 @@
-# My Projects repository 
+# Python Deep Learning Projects
 
+- Music genre recognition task carried out on the GTZAN dataset.
 
-Hello! 
+- Image recognition task on the WikiArt_Faces dataset
 
-I am Alberto. I share here my university projects.
