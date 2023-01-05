@@ -1,6 +1,4 @@
-# My Projects repository 
+# R Projects
 
 
-Hello! 
-
-I am Alberto. I share here my university projects.
+These are my R projects.
